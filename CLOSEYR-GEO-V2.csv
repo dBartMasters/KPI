@@ -1,0 +1,201 @@
+ACTIVITY_DATE,COUNTRY,RETAINED_ACCOUNTS
+2015-01-01,Argentina,0
+2016-01-01,Argentina,0
+2017-01-01,Argentina,0
+2018-01-01,Argentina,0
+2019-01-01,Argentina,0
+2020-01-01,Argentina,0
+2021-01-01,Argentina,1
+2022-01-01,Argentina,1
+2023-01-01,Argentina,0
+2024-01-01,Argentina,0
+2015-01-01,Brazil,0
+2016-01-01,Brazil,0
+2017-01-01,Brazil,0
+2018-01-01,Brazil,1
+2019-01-01,Brazil,1
+2020-01-01,Brazil,0
+2021-01-01,Brazil,0
+2022-01-01,Brazil,0
+2023-01-01,Brazil,0
+2024-01-01,Brazil,0
+2015-01-01,Canada,0
+2016-01-01,Canada,0
+2017-01-01,Canada,0
+2018-01-01,Canada,0
+2019-01-01,Canada,1
+2020-01-01,Canada,1
+2021-01-01,Canada,0
+2022-01-01,Canada,1
+2023-01-01,Canada,5
+2024-01-01,Canada,4
+2015-01-01,Chile,0
+2016-01-01,Chile,0
+2017-01-01,Chile,0
+2018-01-01,Chile,3
+2019-01-01,Chile,6
+2020-01-01,Chile,2
+2021-01-01,Chile,2
+2022-01-01,Chile,7
+2023-01-01,Chile,7
+2024-01-01,Chile,8
+2015-01-01,Colombia,0
+2016-01-01,Colombia,0
+2017-01-01,Colombia,0
+2018-01-01,Colombia,2
+2019-01-01,Colombia,3
+2020-01-01,Colombia,3
+2021-01-01,Colombia,1
+2022-01-01,Colombia,4
+2023-01-01,Colombia,12
+2024-01-01,Colombia,9
+2015-01-01,Costa Rica,0
+2016-01-01,Costa Rica,0
+2017-01-01,Costa Rica,0
+2018-01-01,Costa Rica,0
+2019-01-01,Costa Rica,0
+2020-01-01,Costa Rica,0
+2021-01-01,Costa Rica,0
+2022-01-01,Costa Rica,0
+2023-01-01,Costa Rica,7
+2024-01-01,Costa Rica,7
+2015-01-01,Dominican Republic,0
+2016-01-01,Dominican Republic,0
+2017-01-01,Dominican Republic,0
+2018-01-01,Dominican Republic,0
+2019-01-01,Dominican Republic,0
+2020-01-01,Dominican Republic,0
+2021-01-01,Dominican Republic,0
+2022-01-01,Dominican Republic,1
+2023-01-01,Dominican Republic,1
+2024-01-01,Dominican Republic,0
+2015-01-01,Ecuador,0
+2016-01-01,Ecuador,0
+2017-01-01,Ecuador,0
+2018-01-01,Ecuador,1
+2019-01-01,Ecuador,2
+2020-01-01,Ecuador,1
+2021-01-01,Ecuador,0
+2022-01-01,Ecuador,1
+2023-01-01,Ecuador,6
+2024-01-01,Ecuador,6
+2015-01-01,Guatemala,0
+2016-01-01,Guatemala,0
+2017-01-01,Guatemala,0
+2018-01-01,Guatemala,0
+2019-01-01,Guatemala,1
+2020-01-01,Guatemala,1
+2021-01-01,Guatemala,1
+2022-01-01,Guatemala,1
+2023-01-01,Guatemala,1
+2024-01-01,Guatemala,0
+2015-01-01,Honduras,0
+2016-01-01,Honduras,0
+2017-01-01,Honduras,0
+2018-01-01,Honduras,0
+2019-01-01,Honduras,0
+2020-01-01,Honduras,0
+2021-01-01,Honduras,0
+2022-01-01,Honduras,1
+2023-01-01,Honduras,0
+2024-01-01,Honduras,1
+2015-01-01,Italy,0
+2016-01-01,Italy,0
+2017-01-01,Italy,0
+2018-01-01,Italy,0
+2019-01-01,Italy,0
+2020-01-01,Italy,0
+2021-01-01,Italy,0
+2022-01-01,Italy,0
+2023-01-01,Italy,3
+2024-01-01,Italy,4
+2015-01-01,Mexico,1
+2016-01-01,Mexico,7
+2017-01-01,Mexico,10
+2018-01-01,Mexico,106
+2019-01-01,Mexico,157
+2020-01-01,Mexico,92
+2021-01-01,Mexico,152
+2022-01-01,Mexico,241
+2023-01-01,Mexico,256
+2024-01-01,Mexico,158
+2015-01-01,NULL,0
+2016-01-01,NULL,0
+2017-01-01,NULL,0
+2018-01-01,NULL,0
+2019-01-01,NULL,0
+2020-01-01,NULL,0
+2021-01-01,NULL,0
+2022-01-01,NULL,2
+2023-01-01,NULL,10
+2024-01-01,NULL,9
+2015-01-01,Netherlands,0
+2016-01-01,Netherlands,0
+2017-01-01,Netherlands,0
+2018-01-01,Netherlands,0
+2019-01-01,Netherlands,0
+2020-01-01,Netherlands,0
+2021-01-01,Netherlands,0
+2022-01-01,Netherlands,0
+2023-01-01,Netherlands,1
+2024-01-01,Netherlands,2
+2015-01-01,Nicaragua,0
+2016-01-01,Nicaragua,0
+2017-01-01,Nicaragua,0
+2018-01-01,Nicaragua,1
+2019-01-01,Nicaragua,1
+2020-01-01,Nicaragua,0
+2021-01-01,Nicaragua,0
+2022-01-01,Nicaragua,1
+2023-01-01,Nicaragua,1
+2024-01-01,Nicaragua,0
+2015-01-01,Peru,0
+2016-01-01,Peru,0
+2017-01-01,Peru,0
+2018-01-01,Peru,4
+2019-01-01,Peru,5
+2020-01-01,Peru,2
+2021-01-01,Peru,14
+2022-01-01,Peru,29
+2023-01-01,Peru,33
+2024-01-01,Peru,25
+2015-01-01,Spain,0
+2016-01-01,Spain,0
+2017-01-01,Spain,0
+2018-01-01,Spain,0
+2019-01-01,Spain,0
+2020-01-01,Spain,0
+2021-01-01,Spain,0
+2022-01-01,Spain,0
+2023-01-01,Spain,0
+2024-01-01,Spain,1
+2015-01-01,Switzerland,0
+2016-01-01,Switzerland,0
+2017-01-01,Switzerland,0
+2018-01-01,Switzerland,0
+2019-01-01,Switzerland,0
+2020-01-01,Switzerland,0
+2021-01-01,Switzerland,0
+2022-01-01,Switzerland,0
+2023-01-01,Switzerland,0
+2024-01-01,Switzerland,1
+2015-01-01,United Kingdom,0
+2016-01-01,United Kingdom,0
+2017-01-01,United Kingdom,0
+2018-01-01,United Kingdom,0
+2019-01-01,United Kingdom,0
+2020-01-01,United Kingdom,0
+2021-01-01,United Kingdom,0
+2022-01-01,United Kingdom,0
+2023-01-01,United Kingdom,1
+2024-01-01,United Kingdom,1
+2015-01-01,United States,0
+2016-01-01,United States,2
+2017-01-01,United States,4
+2018-01-01,United States,135
+2019-01-01,United States,194
+2020-01-01,United States,95
+2021-01-01,United States,80
+2022-01-01,United States,116
+2023-01-01,United States,132
+2024-01-01,United States,90

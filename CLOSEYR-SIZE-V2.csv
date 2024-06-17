@@ -1,0 +1,31 @@
+ACTIVITY_DATE,ACCOUNT_CLASS,RETAINED_ACCOUNTS
+2015-01-01,Mega Whale,0
+2016-01-01,Mega Whale,0
+2017-01-01,Mega Whale,1
+2018-01-01,Mega Whale,2
+2019-01-01,Mega Whale,2
+2020-01-01,Mega Whale,3
+2021-01-01,Mega Whale,7
+2022-01-01,Mega Whale,11
+2023-01-01,Mega Whale,15
+2024-01-01,Mega Whale,13
+2015-01-01,Midtier,0
+2016-01-01,Midtier,5
+2017-01-01,Midtier,5
+2018-01-01,Midtier,232
+2019-01-01,Midtier,337
+2020-01-01,Midtier,162
+2021-01-01,Midtier,198
+2022-01-01,Midtier,335
+2023-01-01,Midtier,406
+2024-01-01,Midtier,278
+2015-01-01,Whale,1
+2016-01-01,Whale,4
+2017-01-01,Whale,8
+2018-01-01,Whale,19
+2019-01-01,Whale,32
+2020-01-01,Whale,32
+2021-01-01,Whale,46
+2022-01-01,Whale,60
+2023-01-01,Whale,55
+2024-01-01,Whale,35

@@ -1,0 +1,4 @@
+INFO:snowflake.connector.connection:Snowflake Connector for Python Version: 3.7.1, Python Version: 3.10.13, Platform: macOS-14.1.1-arm64-arm-64bit
+INFO:snowflake.connector.connection:This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+INFO:snowflake.connector.cursor:query: [select xx* from prod_analytics.product_analytics.kpi_dim limit 25]
+INFO:snowflake.connector.cursor:query execution done
